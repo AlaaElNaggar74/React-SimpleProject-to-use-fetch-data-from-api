@@ -1,0 +1,6 @@
+
+.Landingpage .carousel .carousel-inner .carousel-item.active,
+.Landingpage .carousel .carousel-inner .carousel-item img{
+  height: calc(100vh - 72px);
+  filter: brightness(75%);
+}
